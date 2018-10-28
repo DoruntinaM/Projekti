@@ -1,3 +1,3 @@
 # Projekti
-Interneti
-Krijimi i një ueb sajti në kuadër të projektit semestral
+Lënda: Interneti
+Detyra: Krijimi i një ueb sajti në kuadër të projektit semestral.
